@@ -31,4 +31,4 @@ def max_word_value(list_of_words=None):
 
 
 if __name__ == "__main__":
-    pass # run unittests to validate
+    print(max_word_value())
